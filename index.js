@@ -10,4 +10,4 @@ let num3 = 19;
 let num4 = 5;
 let mod = num3%num4;
 
-let max = Math.max(1, 2, 3, 4, 5);
+let max = Math.max(1, 2, 3, 4, 20);
